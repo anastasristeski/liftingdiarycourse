@@ -13,6 +13,12 @@ Lifting Diary Course — a Next.js 16 web application using the App Router, Reac
 - `npm run start` — start production server
 - `npm run lint` — run ESLint
 
+## Docs-First Rule
+
+**ALWAYS** read the relevant documentation file(s) in the `/docs` directory before generating any code. Match the task to the appropriate doc (e.g., UI work → `docs/ui.md`) and follow the patterns, conventions, and guidelines defined there. If no matching doc exists, proceed with the project conventions below.
+
+- /docs/ui.md
+
 ## Architecture
 
 - **Next.js App Router** (`src/app/`) — all routes and layouts live here, not the Pages Router
