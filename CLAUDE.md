@@ -18,6 +18,7 @@ Lifting Diary Course — a Next.js 16 web application using the App Router, Reac
 **ALWAYS** read the relevant documentation file(s) in the `/docs` directory before generating any code. Match the task to the appropriate doc (e.g., UI work → `docs/ui.md`) and follow the patterns, conventions, and guidelines defined there. If no matching doc exists, proceed with the project conventions below.
 
 - /docs/ui.md
+- /docs/data-fetching.md
 
 ## Architecture
 

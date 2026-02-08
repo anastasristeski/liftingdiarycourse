@@ -22,7 +22,7 @@ export function DatePicker({ date }: { date: string }) {
     if (!day) return;
     const formatted = format(day, "yyyy-MM-dd");
     setOpen(false);
-    router.push(`/dashboard?date=${formatted}`);
+    router.replace(`/dashboard?date=${formatted}`);
   }
 
   return (
