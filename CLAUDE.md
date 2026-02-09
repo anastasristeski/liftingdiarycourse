@@ -19,6 +19,8 @@ Lifting Diary Course — a Next.js 16 web application using the App Router, Reac
 
 - /docs/ui.md
 - /docs/data-fetching.md
+- /docs/data-mutations.md
+- /docs/auth.md
 
 ## Architecture
 
